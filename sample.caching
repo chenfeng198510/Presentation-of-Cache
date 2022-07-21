@@ -1,0 +1,9 @@
+CACHE MANIFEST
+# 2022-07-20 v1.0.0
+index.html
+
+NETWORK:
+login.asp
+
+FALLBACK:
+/html/ /offline.html
