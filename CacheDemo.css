@@ -85,6 +85,10 @@ button {
     margin: 4px 2px;
     cursor: pointer;
   }
+ footer{
+    float:right;
+    font-size:medium;
+ } 
 @media screen and (max-width: 500px){
     div.example {
 display:none;
