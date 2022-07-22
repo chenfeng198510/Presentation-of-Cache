@@ -1,0 +1,12 @@
+CACHE MANIFEST
+
+CACHE:
+index.html
+CacheDemo.css
+
+NETWORK:
+*
+
+FALLBACK:
+/order.html /contact.html
+
